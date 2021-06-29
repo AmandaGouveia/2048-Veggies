@@ -1,6 +1,4 @@
-Cupcakes version of [2048](http://gabrielecirulli.github.io/2048/) game
+Veggies version of [2048](http://gabrielecirulli.github.io/2048/) game
 ========================================================================
 
-Play here: http://git.io/cupcakes
-
-[![2048 CUPCAKES](http://oi62.tinypic.com/9u7rkk.jpg)](http://git.io/cupcakes)
+Forked from 0x0800's 2048-CUPCAKES (http://git.io/cupcakes)
