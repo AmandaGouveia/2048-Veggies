@@ -145,11 +145,11 @@ GameManager.prototype.fillLegend = function () {
     grid.classList.add('legend-grid');
     cell.classList.add('legend-cell');
     cell.classList.add('cell-' + exp);
-    img.src = "style/img/" + exp + ".jpg";
+    img.src = "style/img/" + exp + ".png";
     cell.appendChild(img);
     grid.appendChild(cell);
     row.appendChild(grid);
-    p.textContent = Localize(exp) + "  (" + kcal(exp) + " Kcal)";
+    p.textContent = Localize(exp) + "  (" + kcal(exp) + " Health)";
     row.appendChild(p);
 
     legend[0].appendChild(row);
